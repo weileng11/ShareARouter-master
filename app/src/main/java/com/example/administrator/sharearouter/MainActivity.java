@@ -16,6 +16,7 @@ import com.alibaba.android.arouter.launcher.ARouter;
 
 //官方地址 https://github.com/alibaba/ARouter
 //博客地址:https://blog.csdn.net/c10wtiybq1ye3/article/details/80891758
+//https://blog.csdn.net/fei20121106/article/details/73743235
 
 @Route(path = Constance.ACTIVITY_URL_MAIN)
 public class MainActivity extends BaseActivity {
