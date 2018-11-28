@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\as_github\ShareARouter-master\ShareARouter-master\ShareARouter.iml" filepath="D:\as_github\ShareARouter-master\ShareARouter-master\ShareARouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShareARouter-master.iml" filepath="$PROJECT_DIR$/ShareARouter-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\as_github\ShareARouter-master\ShareARouter-master\app\app.iml" filepath="D:\as_github\ShareARouter-master\ShareARouter-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
